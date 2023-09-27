@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Team35-surfeapp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rightArrowDesc">An arrow facing right</string>
+    <string name="leftArrowButton">A clickable button with an arrow facing left</string>
+    <string name="now">NOW</string>
+    <string name="celsius">⁰C</string>
+    <string name="m_s">m/s</string>
+    <string name="m">m</string>
+    <string name="mm">mm</string>
+    <string name="arrow_up_down">arrow pointing upp and down</string>
+    <string name="wave_arrow">arrow pointing inn the direction wave travels</string>
+    <string name="wave">a wave icon</string>
+    <string name="water_droplet">a water droplet</string>
+    <string name="arrow_wind">an arrow pointing inn the direction of the wind</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="warning_symbol">warning symbol</string>
+    <string name="thermometer">a thermometer</string>
+    <string name="wind_turbines">wind turbines</string>
+    <string name="celsiusSettings">Celsius</string>
+    <string name="fahrenheitSettings">Fahrenheit</string>
+    <string name="temperatur_enhet">Temperatur enhet</string>
+    <string name="innstillinger">Innstillinger:</string>
+    <string name="m_leenhet">Måleenhet</string>
+    <string name="metrisk">metrisk</string>
+    <string name="imperisk">imperisk</string>
+    <string name="eldet_uk">eldet UK</string>
+    <string name="kelvin">Kelvin</string>
+
+    <string name="onboard_header_first">Alle surfesteder</string>
+    <string name="onboard_header_second">Oversikt i kart og liste</string>
+    <string name="onboard_header_third">Bytt måleenheter</string>
+
+    <string name="onboard_desc_first">Se live værdata fra alle surfestedene i Norge. Planlegg hvor du skal surfe her!</string>
+    <string name="onboard_desc_second">Se surfestedene i kartet eller velg stedet du vil sjekke ut fra listen</string>
+    <string name="onboard_desc_third">Vil du bruke andre måleenheter? Bytt til hva du ønsker i innstillinger</string>
+    <string name="surf_on_waves">Surf on waves, not online</string>
+    <string name="next_button">Neste</string>
+    <string name="previous_button">Forrige</string>
+    <string name="skip_button">Videre</string>
+    <string name="wave_graphic">Wave graphic</string>
+    <string name="logo_icon">logo icon</string>
+    <string name="utigjengelig">utilgjengelig</string>
+
+</resources>

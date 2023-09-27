@@ -1,0 +1,214 @@
+{
+  "surfing_locations" : [
+    {
+      "name": "Storesand",
+      "latitude": "59.02548206962239",
+      "longitude": "11.01736155994373"
+    },
+    {
+      "name": "Skallevoldbukta",
+      "latitude": "59.29170421391123",
+      "longitude": "10.502818496683505"
+    },
+    {
+      "name": "Langeby",
+      "latitude": "59.078508472269185",
+      "longitude": "10.261411503342236"
+    },
+    {
+      "name": "Vora",
+      "latitude": "59.072545535952095",
+      "longitude": "10.25925632902015"
+    },
+    {
+      "name": "Naverfjorden",
+      "latitude": "58.98334526314596",
+      "longitude": " 9.98237341232488"
+    },
+    {
+      "name": "Saltstein",
+      "latitude": "58.96683826858927",
+      "longitude": "9.850136874860956"
+    },
+    {
+      "name": "Krabberødstrand",
+      "latitude": "59.050633322870574",
+      "longitude": "9.678631583583142"
+    },
+    {
+      "name": "Sjøsanden",
+      "latitude": "58.019727000425604",
+      "longitude": "7.4465564716189485"
+    },
+    {
+      "name": "Lista",
+      "latitude": "58.06944321247789",
+      "longitude": "6.7290037134602425"
+    },
+    {
+      "name": "Brusand",
+      "latitude": "58.534276904798794",
+      "longitude": "5.753307515151268"
+    },
+    {
+      "name": "Kvassheim",
+      "latitude": "58.54966154990816",
+      "longitude": "5.67143318669213"
+    },
+    {
+      "name": "Refsnes",
+      "latitude": "58.68766811267527",
+      "longitude": "5.551098856637243"
+    },
+    {
+      "name": "Point Perfect(Orre)",
+      "latitude": "58.697696795026374",
+      "longitude": "5.53993190595586"
+    },
+    {
+      "name": "Pigsty/Piggy",
+      "latitude": "58.76216363960098",
+      "longitude": "5.49996354595372"
+    },
+    {
+      "name": "Reve Havn",
+      "latitude": "58.77134408370114",
+      "longitude": "5.514927149220708"
+    },
+    {
+      "name": "Bore",
+      "latitude": "58.80111111758255",
+      "longitude": "5.54833719006879"
+    },
+    {
+      "name": "Sele",
+      "latitude": "58.81625602033557",
+      "longitude": "5.5418257707179155"
+    },
+    {
+      "name": "Suppå",
+      "latitude": "58.821702330335015",
+      "longitude": "5.538715617095599"
+    },
+    {
+      "name": "Byberg",
+      "latitude": "58.83465078961946",
+      "longitude": "5.553826757998056"
+    },
+    {
+      "name": "Hellestø",
+      "latitude": "58.841817299162635",
+      "longitude": "5.560988011977782"
+    },
+    {
+      "name": "Sola Beach",
+      "latitude": "58.884898876328904",
+      "longitude": "5.602879055684635"
+    },
+    {
+      "name": "Karmøy",
+      "latitude": "59.199495860724824",
+      "longitude": "5.179806492947619"
+    },
+    {
+      "name": "Fjern-Z",
+      "latitude": "60.59821344505102",
+      "longitude": "4.764731994052802"
+    },
+    {
+      "name": "Hovden",
+      "latitude": "61.684935336916375",
+      "longitude": "4.8228754462848995"
+    },
+    {
+      "name": "Hoddevika",
+      "latitude": "62.12409276189787",
+      "longitude": "5.160873418717587"
+    },
+    {
+      "name": "Ervik",
+      "latitude": "62.16666310073369",
+      "longitude": "5.1149519978976405"
+    },
+    {
+      "name": "Flø",
+      "latitude": "62.40633832838877",
+      "longitude": "5.853180930605219"
+    },
+    {
+      "name": "Alnes Fyr",
+      "latitude": "62.48930842460052",
+      "longitude": "5.961883283872863"
+    },
+    {
+      "name": "Kraakevika",
+      "latitude": "62.672893362532776",
+      "longitude": "6.168372051778"
+    },
+    {
+      "name": "Hustadvika",
+      "latitude": "62.9824592294284",
+      "longitude": "7.151717247782139"
+    },
+    {
+      "name": "Storvika",
+      "latitude": "67.30719062638035",
+      "longitude": "14.422711304731845"
+    },
+    {
+      "name": "Seines",
+      "latitude": "67.20904296161827",
+      "longitude": "14.352153698003539"
+    },
+    {
+      "name": "Lop camping",
+      "latitude": "67.3231174915022",
+      "longitude": "14.478352189003376"
+    },
+    {
+      "name": "Unstad",
+      "latitude": "68.26896579276662",
+      "longitude": "13.581179860270584"
+    },
+    {
+      "name": "G-Force",
+      "latitude": "68.63775872675609",
+      "longitude": "14.425381128525682"
+    },
+    {
+      "name": "G-Frame",
+      "latitude": "68.63914726680001",
+      "longitude": "14.427834330629949"
+    },
+    {
+      "name": "The Frog",
+      "latitude": "68.75712112301827",
+      "longitude": "14.473762111293228"
+    },
+    {
+      "name": "Ducks",
+      "latitude": "69.06800940801512",
+      "longitude": "15.522557415479078"
+    },
+    {
+      "name": "Porsangvika",
+      "latitude": "70.87059151315555",
+      "longitude": "25.82790153867726"
+    },
+    {
+      "name": "Berlevåg Sandfjorden",
+      "latitude": "70.79763971337778",
+      "longitude": "29.26613958020485"
+    },
+    {
+      "name": "Persfjord",
+      "latitude": "70.42054697892225",
+      "longitude": "30.780600031654988"
+    },
+    {
+      "name": "Skallelv",
+      "latitude": "70.17927361140744",
+      "longitude": "30.339513064478574"
+    }
+  ]
+}

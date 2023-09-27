@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+
+    <item
+        android:id="@id/navigate_map"
+        android:name="windowTranslucentNavigation"
+        android:icon="@drawable/ic_round_map_24"
+        android:title=""/>
+
+    <item
+        android:id="@id/navigate_list"
+        android:name="windowTranslucentNavigation"
+        android:icon="@drawable/ic_round_format_list_bulleted_24"
+        android:title=""/>
+
+    <item
+        android:id="@id/navigate_settings"
+        android:name="windowTranslucentNavigation"
+        android:icon="@drawable/ic_round_settings_24"
+        android:title=""/>
+
+</menu>

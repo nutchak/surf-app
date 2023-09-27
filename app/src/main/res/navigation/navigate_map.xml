@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigate_map"
+    app:startDestination="@id/mapFragment">
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.example.team35_surfeapp.view.ui.map.Map"
+        android:label="fragment_map"
+        tools:layout="@layout/fragment_map" >
+        <action
+            android:id="@+id/action_mapFragment_to_infoPage"
+            app:destination="@id/infoPage" />
+    </fragment>
+    <fragment
+        android:id="@+id/infoPage"
+        android:name="com.example.team35_surfeapp.view.ui.infoWindow.InfoPage"
+        android:label="fragment_info_page"
+        tools:layout="@layout/fragment_info_page" >
+        <action
+            android:id="@+id/action_infoPage_to_mapFragment"
+            app:destination="@id/mapFragment" />
+        <argument
+            android:name="visibility"
+            android:defaultValue="false"
+            />
+    </fragment>
+</navigation>

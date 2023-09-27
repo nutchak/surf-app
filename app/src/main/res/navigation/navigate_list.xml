@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigate_list"
+    app:startDestination="@id/list">
+
+    <fragment
+        android:id="@+id/list"
+        android:name="com.example.team35_surfeapp.view.ui.list.ListFragment"
+        android:label="fragment_list"
+        tools:layout="@layout/fragment_list" >
+        <action
+            android:id="@+id/action_list_to_infoPage"
+            app:destination="@id/infoPage" />
+    </fragment>
+    <fragment
+        android:id="@+id/infoPage"
+        android:name="com.example.team35_surfeapp.view.ui.infoWindow.InfoPage"
+        android:label="fragment_info_page"
+        tools:layout="@layout/fragment_info_page">
+        <action
+            android:id="@+id/action_infoPage_to_list"
+            app:destination="@id/list" />
+    </fragment>
+</navigation>
